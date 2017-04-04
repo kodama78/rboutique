@@ -8,6 +8,6 @@ mboutique reacted
 ### State
 ### Props
 ### Less
-## Utilize react-router
+## react-router
 
-## Utilize Webpack
+## Webpack
