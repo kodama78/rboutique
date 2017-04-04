@@ -1,13 +1,13 @@
 # rboutique
 mboutique reacted
 
-# Initiatives
-## Recreate mboutique in React.js
+# Learning modules
+## 1. react.js
 ### ES6
 ### JSX
 ### State
 ### Props
 ### Less
-## react-router
+## 2. react-router
 
-## Webpack
+## 3. Webpack
