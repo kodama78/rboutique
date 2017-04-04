@@ -2,8 +2,12 @@
 mboutique reacted
 
 # Initiatives
-### 1. Recreate mboutique in React.js
+## Recreate mboutique in React.js
+### ES6
+### JSX
+### State
+### Props
+### Less
+## Utilize react-router
 
-### 2. Utilize react-router
-## 3. Utilize ES6
-## 4. Utilize Webpack
+## Utilize Webpack
